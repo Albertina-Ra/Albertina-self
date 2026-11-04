@@ -1,0 +1,187 @@
+{
+  "skills": [
+    "deepwhite-image-prompt-builder",
+    "deepwhite-screenwriting-v1",
+    "deepwhite-shotlist-builder-zh-user",
+    "domain-modeling",
+    "grilling",
+    "grill-with-docs"
+  ],
+  "files": [
+    {
+      "path": "skill/deepwhite-image-prompt-builder/agents/openai.yaml",
+      "size": 259,
+      "sha256": "dd827417abcb1e1a73ee6a806c950da1b29c3dbfc4b28ff73f9d1ed07bcbdfbb"
+    },
+    {
+      "path": "skill/deepwhite-image-prompt-builder/SKILL.md",
+      "size": 6531,
+      "sha256": "be8001b558e35fe2503ce8b67d329517c35fe24783038120dafbefaa13952eba"
+    },
+    {
+      "path": "skill/deepwhite-screenwriting-v1/agents/openai.yaml",
+      "size": 317,
+      "sha256": "a02608d9d48b2b780b3c0101d084b372590912002f2f224ee798c1e1e2296085"
+    },
+    {
+      "path": "skill/deepwhite-screenwriting-v1/references/scorecards.md",
+      "size": 2915,
+      "sha256": "9f88e33a93d9a3586e8f68a20b400da1a7c37a6935770102d9eabf04324c96c2"
+    },
+    {
+      "path": "skill/deepwhite-screenwriting-v1/references/screenwriter-engine.md",
+      "size": 5056,
+      "sha256": "6672a8381874c5c723895583fbbaca64315c90025dd8a21d0442d625a6ec92e3"
+    },
+    {
+      "path": "skill/deepwhite-screenwriting-v1/references/shanyin-engine.md",
+      "size": 6282,
+      "sha256": "7074558b782f077d36291ced2137de4eabb6e2a8d56d88f9288f48f153116d2f"
+    },
+    {
+      "path": "skill/deepwhite-screenwriting-v1/SKILL.md",
+      "size": 5483,
+      "sha256": "7b73f42daacb8d9510f9068d91886d5a65df79ba183d250a6c596c2a093ae412"
+    },
+    {
+      "path": "skill/deepwhite-screenwriting-v1/templates/characters.template.md",
+      "size": 562,
+      "sha256": "7c1842b14de361dab50be0178db1877945716fb6cad735109b5c194700b8080a"
+    },
+    {
+      "path": "skill/deepwhite-screenwriting-v1/templates/diagnosis-report.template.md",
+      "size": 270,
+      "sha256": "ba60e37adfd79795acc5837133b5371a32895498cb76a0a0c79ff2ff55c75709"
+    },
+    {
+      "path": "skill/deepwhite-screenwriting-v1/templates/scene-breakdown.template.md",
+      "size": 518,
+      "sha256": "6755252cf1c067290056c12156a454001a14148104e16586ad0b1c939cdb572f"
+    },
+    {
+      "path": "skill/deepwhite-screenwriting-v1/templates/synopsis.template.md",
+      "size": 493,
+      "sha256": "e7fb762132e1afb153571602f8c11b45696e98cbf2aa1aadf989716ebff58ad1"
+    },
+    {
+      "path": "skill/deepwhite-screenwriting-v1/templates/worldbuilding.template.md",
+      "size": 502,
+      "sha256": "f6d03207f8fbd151119f0195e97864b4434df5c72f47b905df7ecb8c71b3e6b9"
+    },
+    {
+      "path": "skill/deepwhite-shotlist-builder-zh-user/agents/openai.yaml",
+      "size": 329,
+      "sha256": "93b653277741b9f1f0af986f00aa5367f6e76849cdd37180df4b4b2bc6458a38"
+    },
+    {
+      "path": "skill/deepwhite-shotlist-builder-zh-user/reference/ASSET_CONFIRMATION.md",
+      "size": 2746,
+      "sha256": "0b9f28e57e0e2522c37bbaad70d6dfa114ddb85e57bdbfc5af2aa7ca1f4ec740"
+    },
+    {
+      "path": "skill/deepwhite-shotlist-builder-zh-user/reference/CAMERA_EMOTION.md",
+      "size": 5423,
+      "sha256": "a101e6fdf4dbdc5c53a4c7ba9edec51b82029c42e6290840c90bf062cb2e0885"
+    },
+    {
+      "path": "skill/deepwhite-shotlist-builder-zh-user/reference/DELIVERY_FORMAT.md",
+      "size": 1247,
+      "sha256": "5bc001f63efe77b7f55168fe50e41fbea370b76237fcf8cbc390f507f4a959ff"
+    },
+    {
+      "path": "skill/deepwhite-shotlist-builder-zh-user/reference/HTML_QA.md",
+      "size": 2914,
+      "sha256": "7a4ad52f4b2e2201ebf5cb1169292dfef6816baa2b7b270e91d1f187cdbce8f5"
+    },
+    {
+      "path": "skill/deepwhite-shotlist-builder-zh-user/reference/MICRO_BEATS.md",
+      "size": 4355,
+      "sha256": "e0505f3f54a4f7443c61a48f5073e718cf27917c9e193197b35993f43344fdf2"
+    },
+    {
+      "path": "skill/deepwhite-shotlist-builder-zh-user/reference/PLAN_TYPES.md",
+      "size": 1770,
+      "sha256": "4ee65ea605082ee04a051862ac90adb37acfa365eff989e0db35e7d4cc98f2e5"
+    },
+    {
+      "path": "skill/deepwhite-shotlist-builder-zh-user/reference/PROMPT_DENSITY.md",
+      "size": 4435,
+      "sha256": "605859f78da378ca936f1dfb4b97f03cc4a7a86edcc47e948dbcf994eb638fe3"
+    },
+    {
+      "path": "skill/deepwhite-shotlist-builder-zh-user/reference/PROMPT_PATTERNS.md",
+      "size": 15786,
+      "sha256": "1a345264ff7de358a791cc0064bc9d7235729c87e2d2256d77cd4959d82bafd8"
+    },
+    {
+      "path": "skill/deepwhite-shotlist-builder-zh-user/reference/PROMPT_TIMING.md",
+      "size": 6117,
+      "sha256": "59cf0c6768cc57939e0903824401219720702c53a4130bd8ccb3b806e7daff6b"
+    },
+    {
+      "path": "skill/deepwhite-shotlist-builder-zh-user/reference/SPATIAL_BLOCKING.md",
+      "size": 4076,
+      "sha256": "e1cab44852bd134199432e2f2b5c7d752f0d1086525a5524ca9b90bf8fa640ad"
+    },
+    {
+      "path": "skill/deepwhite-shotlist-builder-zh-user/reference/STORYBOARD_ASSETS.md",
+      "size": 2606,
+      "sha256": "33f242c3ae71ca4f1a8ece1ba2a3c246ceb626298bf99abf67d7a65a65746937"
+    },
+    {
+      "path": "skill/deepwhite-shotlist-builder-zh-user/reference/STYLE_BLOCK.md",
+      "size": 6974,
+      "sha256": "c4a92f03071c0a22cec255a509b2f4bc7c6e3a331662d6148f7863c3ce04c2bd"
+    },
+    {
+      "path": "skill/deepwhite-shotlist-builder-zh-user/SKILL.md",
+      "size": 17524,
+      "sha256": "3ebf27d459d60cf16eacc13e4924199e2d5b542237d107ffb0363365694a866d"
+    },
+    {
+      "path": "skill/deepwhite-shotlist-builder-zh-user/templates/HTML_TEMPLATE.md",
+      "size": 15425,
+      "sha256": "237f9356e296bbee19477a3f5cf1c8d1244ef4d8280ec9d5e1a190a890520b01"
+    },
+    {
+      "path": "skill/domain-modeling/ADR-FORMAT.md",
+      "size": 2733,
+      "sha256": "944c92aa790e8fbdc9199640b170979abb8a34ba8d0fe18c2a01a63bce140ca0"
+    },
+    {
+      "path": "skill/domain-modeling/agents/openai.yaml",
+      "size": 101,
+      "sha256": "f6bf2aa996c6e6f53fdd0708e18a0d16a56aed8322cca59fedbe3c0d2c75f06b"
+    },
+    {
+      "path": "skill/domain-modeling/GLOSSARY-FORMAT.md",
+      "size": 2300,
+      "sha256": "21dcc40cdec8e151a829b98ab1517c1867bc444e3665134a98c6983411996801"
+    },
+    {
+      "path": "skill/domain-modeling/SKILL.md",
+      "size": 3346,
+      "sha256": "7b925d7b1e341a2eeae33ad68a8a8c0ab889a38ddd22a7598e4c240e5a7556a3"
+    },
+    {
+      "path": "skill/grill-with-docs/agents/openai.yaml",
+      "size": 145,
+      "sha256": "94cd0ab161fb468a836349f5ed482ba58ce8e709a05c57ce533d739dbd35cca9"
+    },
+    {
+      "path": "skill/grill-with-docs/SKILL.md",
+      "size": 247,
+      "sha256": "7de372c13488f1ee96cc11cd8907b56b6809cc93eef776eeddd37de6b6cbe3fe"
+    },
+    {
+      "path": "skill/grilling/agents/openai.yaml",
+      "size": 113,
+      "sha256": "1411d7df7d99b7e621a1ff8283c8133cc2464be63d064e52d8ce169c6800ee9b"
+    },
+    {
+      "path": "skill/grilling/SKILL.md",
+      "size": 2049,
+      "sha256": "befdff1e27a1dfe2a294d5871169ac1afe16d983911daa4f32627514a48c1e15"
+    }
+  ]
+}
