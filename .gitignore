@@ -1,0 +1,15 @@
+# 本机配置与敏感文件
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# 编辑器、系统与 Python 缓存
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
